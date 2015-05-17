@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CoolFormat",
+		"Emmet",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SublimeLinter",
+		"SyncedSideBar"
+	]
+}
